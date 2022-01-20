@@ -1,3 +1,5 @@
+Warning: There is a bug where sometimes the point leaves the manifold!
+
 # Manopt.jl
 
 Optimization on Manifolds.
